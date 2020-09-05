@@ -1,3 +1,10 @@
+//============================================================================
+// Name        : virtual-cricket-game.cpp
+// Author      : Bhawana
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
 #include "game.h"
 using namespace std;
 
